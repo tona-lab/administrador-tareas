@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/administrador-tareas/static/css/main.b01095c1.chunk.css",
+    "main.js": "/administrador-tareas/static/js/main.17ffb94a.chunk.js",
+    "main.js.map": "/administrador-tareas/static/js/main.17ffb94a.chunk.js.map",
+    "runtime-main.js": "/administrador-tareas/static/js/runtime-main.92ad3dc1.js",
+    "runtime-main.js.map": "/administrador-tareas/static/js/runtime-main.92ad3dc1.js.map",
+    "static/js/2.a22de272.chunk.js": "/administrador-tareas/static/js/2.a22de272.chunk.js",
+    "static/js/2.a22de272.chunk.js.map": "/administrador-tareas/static/js/2.a22de272.chunk.js.map",
+    "index.html": "/administrador-tareas/index.html",
+    "static/css/main.b01095c1.chunk.css.map": "/administrador-tareas/static/css/main.b01095c1.chunk.css.map",
+    "static/js/2.a22de272.chunk.js.LICENSE.txt": "/administrador-tareas/static/js/2.a22de272.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92ad3dc1.js",
+    "static/js/2.a22de272.chunk.js",
+    "static/css/main.b01095c1.chunk.css",
+    "static/js/main.17ffb94a.chunk.js"
+  ]
+}
